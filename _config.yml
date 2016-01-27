@@ -1,0 +1,28 @@
+name: Emperorchan
+favicon: null
+layout_spectrum: 0.5708426549099386
+typography_spectrum: 0.9411608977243304
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7355626237113029
+  lightness: 0.9662277693860233
+  saturation: 0.889071187004447
+  rhythmicContrast: 0.2199962513986975
+purpose: []
